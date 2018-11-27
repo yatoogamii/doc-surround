@@ -1,6 +1,6 @@
-# Surround.vim is a plugin for surrounding words on Vim
+# Documentation for the plugin Surround Vim 
 
-#### if you haven't installed it yet, come here : https://vimawesome.com/plugin/surround-vim
+#### if you haven't installed it yet, come here : https://github.com/tpope/vim-surround
 
 
 ## Adding surrounding
