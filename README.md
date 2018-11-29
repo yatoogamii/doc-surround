@@ -37,7 +37,7 @@ If you want to surround ***only*** one word you can use `ysw)` to surround the w
 
 #### * = my cursor
 
-`ysw)` = ![`H*ello world`](https://i.imgur.com/aqP9ovk.png) 
+`ysw)` = ![`H*ello world`](https://i.imgur.com/aqP9ovk.png)   
 `ysw)` =
 `ysw)` =
 
