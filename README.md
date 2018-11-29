@@ -35,7 +35,7 @@ Now you can surround an entire sentence with the desired character, but you can'
 
 If you want to surround ***only*** one word you can use `ysw)` to surround the word with *parenthesis* ***from the cursor to the end of the word***, some examples :
 
-#### ![cursor](https://i.imgur.com/OOZPdxd.png)= my cursor
+#### ![cursor](https://i.imgur.com/8AnPG2L.png)= my cursor
 
 `ysw)` = ![`(H*ello) world`](https://i.imgur.com/maYofFG.png)  
 `ysw)` = ![`(Hello (w*orld`](https://i.imgur.com/v9XoAln.png)   
