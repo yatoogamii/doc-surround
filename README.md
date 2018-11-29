@@ -37,7 +37,7 @@ If you want to surround ***only*** one word you can use `ysw)` to surround the w
 
 #### * = my cursor
 
-`ysw)` = ![`(H*ello) world`](https://i.imgur.com/TeWlASS.png)  
+`ysw)` = ![`(H*ello) world`](https://i.imgur.com/maYofFG.png)  
 `ysw)` = ![`(Hello (w*orld`](https://i.imgur.com/v9XoAln.png)   
 
 If i want to surround the complete word then i use `ysiw` ( is = entire word) with this command even if my cursor is in the center of the word, ***the whole word*** will be surrounded
