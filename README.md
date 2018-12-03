@@ -53,7 +53,7 @@ I can also surround many words ***by replacing*** the "***x***" in this command 
 
 And if I want to surround my words with HTML tags it's possible, they will even close themselves, for example:  
 
-`ysiw<p> = <p>Hello world</p>`  
+`ysiw<p> = <p>Hello</p> world`  
 `ys2aw<h1> = <h1>Hello world</h1>`   
 
 Let's finish by doing a v ( to put it in visual mode on vim) then selecting all the lines we want to surround followed by an S and the desired entourage, example:  
