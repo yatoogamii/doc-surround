@@ -21,7 +21,7 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 *Tips* for ***(parenthesis),[brackets]*** and ***{braces}*** if we use the characters that open these signs we will have an extra space between the word and its surroundings, example : 
 
-## ***non-exhaustive list of surrondings carracters*** 
+## ***non-exhaustive list of surrounding characters*** 
 
 ```
 * (parenthesis)  (WITHOUT/WITH SPACE)                                                                                                             
@@ -34,8 +34,8 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 * @at
 * #octothop#
 * &apersand&
-* <code>code</code>
-
+* <tag>tag</tag>
+* `backtick`
 ```
 
 ### ***With space***
@@ -77,7 +77,7 @@ Let's finish by doing a v ( to put it in visual mode on vim) then selecting all 
 
 `v S<p> = <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue metus</p>`  
 
-PS: its the same of `Xyss)` ***x*** is a ***number***
+`PS: its the same of `Xyss)` ***x*** is a ***number***`
 
 It also allows you to surround a block of text even with spaced lines
 
