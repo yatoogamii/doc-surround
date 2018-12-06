@@ -2,6 +2,7 @@
 
 #### if you haven't installed it yet, come here : https://github.com/tpope/vim-surround
 
+![surroundgif](https://i.imgur.com/e7r4JvN.gif)
 
 ## Adding surrounding
 
