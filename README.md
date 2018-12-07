@@ -22,7 +22,6 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 *Tips* for ***(parenthesis),[brackets]*** and ***{braces}*** if we use the characters that open these signs we will have an extra space between the word and its surroundings, example : 
 
-## ***non-exhaustive list of surrounding characters*** 
 
 ### ***With space***
 
@@ -34,6 +33,7 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 `yss) = (Hello world)`    
 `yss] = [Hello world]`
 
+## ***non-exhaustive list of surrounding characters*** 
 
 ```
 * (parenthesis)  (WITHOUT/WITH SPACE)                                                                                                             
