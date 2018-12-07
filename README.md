@@ -23,6 +23,17 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 ## ***non-exhaustive list of surrounding characters*** 
 
+### ***With space***
+
+`yss( = ( Hello world )`  
+`yss[ = [ Hello world ]`
+
+### ***Without space***
+
+`yss) = (Hello world)`    
+`yss] = [Hello world]`
+
+
 ```
 * (parenthesis)  (WITHOUT/WITH SPACE)                                                                                                             
 * [brackets]  (WITHOUT/WITH SPACE)
@@ -37,16 +48,6 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 * <tag>tag</tag>
 * `backtick`
 ```
-
-### ***With space***
-
-`yss( = ( Hello world )`  
-`yss[ = [ Hello world ]`
-
-### ***Without space***
-
-`yss) = (Hello world)`    
-`yss] = [Hello world]`
 
 Now you can surround an entire sentence with the desired character, but you can't surround just one or two words
 
