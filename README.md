@@ -1,7 +1,8 @@
-# Documentation for the plugin Surround Vim 
+# Documentation for the Surround-vim plugin
 
 #### if you haven't installed it yet, come here : https://github.com/tpope/vim-surround
 
+![surroundgif](https://i.imgur.com/e7r4JvN.gif)
 
 ## Adding surrounding
 
@@ -42,7 +43,7 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 * *stars* 
 * -hyphen-
 * |pipe|
-* @at
+* @at@
 * #octothop#
 * &apersand&
 * <tag>tag</tag>
@@ -78,7 +79,7 @@ Let's finish by doing a v ( to put it in visual mode on vim) then selecting all 
 
 `v S<p> = <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue metus</p>`  
 
-`PS: its the same of `Xyss)` ***x*** is a ***number***`
+### P.S: its the same of `Xyss)` ***x*** is a ***number***`
 
 It also allows you to surround a block of text even with spaced lines
 
