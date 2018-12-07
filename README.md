@@ -65,7 +65,7 @@ If i want to surround the complete word then i use `ysiw` ( is = entire word) wi
 `ysiw-` = ![`Hello -wo*rld-`](https://i.imgur.com/RUBsMNg.png)    
 
 I can also surround many words ***by replacing*** the "***x***" in this command `ysXaw` with a ***number***(with the
-`ysaw' command the spaces between the words dont count)
+`ysaw` command the spaces between the words dont count)
 
 `ys2aw) = (Hello at!) world`  
 `ys2aw} = Hello {at world}`  
